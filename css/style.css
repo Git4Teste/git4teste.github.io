@@ -56,51 +56,51 @@ h3 {
 }
 .div3 {
   background-image: url(../imagens/devOps.jpg);
-  min-height: 500px;
+  min-height: 700px;
   opacity: 0.90;	
 }
 
 .div4 {
   background-image: url(../imagens/userStories.jpg);
-  min-height: 500px;
+  min-height: 700px;
   opacity: 0.75;
 }
 
 .div5 {
   background-image: url(../imagens/DVSTS.jpg);
-  min-height: 400px;
+  min-height: 700px;
   opacity: 0.90;
 }
 
 .div6 {
   background-image: url(../imagens/gitLogoMiniatura.jpg);
-  min-height: 400px;
+  min-height: 700px;
   opacity: 0.80;
 }
 
 
 .div7 {
   background-image: url(../imagens/hoot.jpg);
-  min-height: 600px;
+  min-height: 700px;
   opacity: 0.80;
 }
 
 .div8 {
-	background-image: url(../imagens/social.jpg);
-	min-height: 600px;
-	opacity: 0.80;
+  background-image: url(../imagens/social.jpg);
+  min-height: 700px;
+  opacity: 0.80;
 }
 
 .div9 {
-	background-image: url(../imagens/scup.jpg);
-	min-height: 500px;
-	opacity: 0.80;
+  background-image: url(../imagens/scup.jpg);
+  min-height: 700px;
+  opacity: 0.80;
 }
 
 .div10 {
-	background-image: url(../imagens/planning.jpg);
-	min-height: 450px;
-	opacity: 0.80;
+  background-image: url(../imagens/planning.jpg);
+  min-height: 700px;
+  opacity: 0.80;
 }
 
 

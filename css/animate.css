@@ -609,7 +609,7 @@ body{
 @keyframes fadeInLeft {
   from {
     opacity: 0;
-    transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-10px, 0, 0);
   }
 
   to {
@@ -641,7 +641,7 @@ body{
 @keyframes fadeInRight {
   from {
     opacity: 0;
-    transform: translate3d(100px, 0, 0);
+    transform: translate3d(50px, 0, 0);
   }
 
   to {
@@ -650,7 +650,7 @@ body{
   }
 }
 
-.fadeInRight {
+.fadeInRight {	
   animation-name: fadeInRight;
 }
 

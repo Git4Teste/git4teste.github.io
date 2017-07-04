@@ -35,24 +35,24 @@ h3 {
 
 /* Configura os elementos "parallax" */
 .parallax{
-	background-attachment: fixed;
-	background-size: cover;
-	background-position: 50% 0;
-	position: relative;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 50% 0;
+  position: relative;
 }
 
 /* Configura um background para cada elemento */
 .div1 {
-	background-image: url(../imagens/mario.gif);
-	background-size: 100% 100%;
-	opacity: 0.80;
-	height: 100%;
+  background-image: url(../imagens/mario.gif);
+  background-size: 100% 100%;
+  opacity: 0.80;
+  height: 100%;
 }
 .div2 {
-	background-image: url(../imagens/alm2.jpg);
-	 min-height: 100%;
-	 background-size: 100% 100%;
-	 opacity: 0.80;
+  background-image: url(../imagens/alm2.jpg);
+  min-height: 700px;
+  opacity: 0.80;
+	 
 }
 .div3 {
   background-image: url(../imagens/devOps.jpg);

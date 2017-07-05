@@ -5,6 +5,35 @@ body, html {
   color: #777;
 }
 
+/*Configuração Botão voltar ao topo*/
+#back-top {
+	position: fixed;
+	bottom: 0px;
+	right: 20px;
+}
+#back-top a {
+	display: block;
+	
+}
+#back-top a:hover {
+	opacity: 0.80;
+}
+
+#back-top span {
+	display: block;
+	opacity: 0.80;
+	
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+
+
+
+
 /* Configura os textos */
 .caption {
   position: absolute;
